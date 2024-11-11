@@ -1,0 +1,24 @@
+:root {
+	--color1: #0c0f0a;
+	--color2: #f2f4f3;
+	--text-color: #444;
+}
+.todo-card {
+	background-color: #0c0f0a;
+	border-radius: 10px;
+	border: none;
+	height: 200px;
+	width: auto;
+	margin: 10px 0;
+}
+
+.project {
+	width: auto;
+}
+.stack {
+	height: 250px;
+	width: 150px;
+}
+.task {
+	width: 100%;
+}
